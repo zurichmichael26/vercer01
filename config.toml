@@ -1,0 +1,4 @@
+baseURL = "https://gosheetmusiccreat.vercel.app"
+languageCode = "en-us"
+title = "Go Sheet Music PDF"
+theme = "tale-hugo-master"
